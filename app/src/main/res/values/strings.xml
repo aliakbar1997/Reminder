@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="hour_minute">HH:mm:ss</string>
+</resources>
